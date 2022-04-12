@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v689-ning-18-collagecopyspace_1.jpg?auto=format&bg=F4F4F3&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=1200&s=86d74f127fa2f63ac67c15885a4b5f9b);
+    background-size: contain;
+    background-attachment: fixed;
+}
+input{
+    margin: 10px;
+    position: relative;
+    top: 300px;
+    left: 580px;
+    width: 300px;
+    height: 20px;
+    padding: 12px;
+    outline: auto;
+}
+
+button{
+    margin-right: 95px;
+    margin-top: 10px;
+    position: relative;
+    top: 300px;
+    left: 630px;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(0, 89, 255);
+    
+    color: rgb(255, 255, 255);
+}
